@@ -37,7 +37,7 @@ I'm always down to listen to you yap about literally anything. Just don't expect
 <img
   src="https://raw.githubusercontent.com/Im4Star/Im4Star/main/hunger-meter.svg"
   width="100%"
-  alt="Louis status bars: hunger 100%, listening 95%, good advice half a grain"
+  alt="Louis status bars: hunger 100%, thurst 70%, sanity 30%"
 />
 
 </div>
