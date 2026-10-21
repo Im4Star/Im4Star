@@ -28,7 +28,7 @@
 
 First of all, I really, REALLY love food. Eating is a lifestyle, a passion, and probably one of my main reasons for staying alive. If there's food, I'm there. If there's no food, we have a problem.
 
-I'm into way too many fandoms to list them all here, so I made a separate repository for my fandom interests. Feel free to [check it out](https://github.com/Im4Star/YOUR-FANDOM-REPO) if you're curious!
+I'm into way too many fandoms to list them all here, so I made a separate repository for my fandom interests. Feel free to [check it out](https://github.com/Im4Star/my-fandoms) if you're curious!
 
 I'm always down to listen to you yap about literally anything. Just don't expect me to give good advice, because honestly, I'm better at listening than figuring out what to say. Take my advice with a grain of salt, or maybe half a grain. I warned you.
 
