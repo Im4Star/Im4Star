@@ -10,7 +10,7 @@
 
 <h1>𝑰𝒎 𝑳𝒐𝒖𝒊𝒔</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=5DADE2&center=true&vCenter=true&width=460&lines=somewhere+between+music%2C+games+and+my+own+thoughts;currently+loading+a+new+daydream...;AFK+(probably+staring+at+the+ceiling)" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=5DADE2&center=true&vCenter=true&width=460&lines=professional+eater%2C+permanently+hungry;somehow+still+functioning;%2Afart%2A" alt="typing intro" />
 
 <br /><br />
 
@@ -24,58 +24,38 @@
 
 </div>
 
-## 𝟎𝟏 ── 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓 𝒔𝒉𝒆𝒆𝒕
+## 𝟎𝟏 ── 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆
 
-```text
-     _
-    | |      Louis@daydreamer ------------------------
-  __| |__    Age ......... 20
- |__   __|   Class ....... part-time daydreamer
-    | |      Status ...... currently chilling
-    | |      Music ....... Billie Eilish, The Weeknd
-    | |      Games ....... Reverse: 1999, Roblox
-    |_|      Inventory ... a whole plushie cabinet
-             Legendary ... one plushie since birth
-```
+First of all, I really, REALLY love food. Eating is a lifestyle, a passion, and probably one of my main reasons for staying alive. If there's food, I'm there. If there's no food, we have a problem.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b3a57,100:5dade2&height=2&section=header" width="100%" alt="" />
+I'm into way too many fandoms to list them all here, so I made a separate repository for my fandom interests. Feel free to [check it out](https://github.com/Im4Star/YOUR-FANDOM-REPO) if you're curious!
 
-## 𝟎𝟐 ── 𝒑𝒐𝒏𝒚 𝒕𝒐𝒘𝒏 · 𝒎𝒚 𝒔𝒑𝒂𝒘𝒏 𝒑𝒐𝒊𝒏𝒕
-
-```text
-📍 Location : The Market, the Beach, Spawn
-🎯 Quest    : idle around, check out skins, chill
-💬 Whisper  : open  (might be AFK, reply may take a while)
-🤝 C + H    : welcome
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b3a57,100:5dade2&height=2&section=header" width="100%" alt="" />
-
-## 𝟎𝟑 ── 𝒃𝒐𝒖𝒏𝒅𝒂𝒓𝒊𝒆𝒔
-
-<details>
-<summary><b>📜 Click to read before saying hi</b></summary>
-
-<br />
-
-- 🚫 DNI if you're under 18
-- 🚫 No ragebait or unnecessary drama
-- 🚫 Religion isn't my topic
-- 🚫 Not looking for dates or romantic relationships
-
-✅ Be respectful and we'll get along just fine.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1b2a,50:1b3a57,100:5dade2&height=2&section=header" width="100%" alt="" />
+I'm always down to listen to you yap about literally anything. Just don't expect me to give good advice, because honestly, I'm better at listening than figuring out what to say. Take my advice with a grain of salt, or maybe half a grain. I warned you.
 
 <div align="center">
 
-### 𝒔𝒐... 𝒔𝒂𝒚 𝒉𝒊?
+<img
+  src="https://raw.githubusercontent.com/Im4Star/Im4Star/main/hunger-meter.svg"
+  width="100%"
+  alt="Louis status bars: hunger 100%, listening 95%, good advice half a grain"
+/>
 
-<i>a song on repeat, a thought that went nowhere.</i>
+</div>
 
-<br /><br />
+## 𝟎𝟐 ── 𝒃𝒐𝒖𝒏𝒅𝒂𝒓𝒊𝒆𝒔
+
+DNI if you're under 18.
+<br />No ragebait or unnecessary drama, please.
+<br />I'd rather not discuss religion.
+<br />Not looking for dates or romantic relationships.
+
+Just be respectful and we'll be fine.
+
+<div align="center">
+
+<br />
+
+### 𝒘𝒐𝒎𝒑 𝒘𝒐𝒎𝒑 𝒘𝒐𝒎𝒑
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b3a57,100:5dade2&height=90&section=footer" width="100%" alt="" />
 
