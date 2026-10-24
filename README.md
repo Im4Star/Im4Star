@@ -26,7 +26,7 @@
 
 ## 𝟎𝟏 ── 𝒂𝒃𝒐𝒖𝒕 𝒎𝒆
 
-First of all, I really, REALLY love food. Eating is a lifestyle, a passion, and probably one of my main reasons for staying alive. If there's food, I'm there. If there's no food, we have a problem.
+First of all, I really, REALLY love music. Listening to music isn’t just a habit; it’s a whole lifestyle, a deep passion, and basically my main reason for living.
 
 I'm into way too many fandoms to list them all here, so I made a separate repository for my fandom interests. Feel free to [check it out](https://github.com/Im4Star/my-fandoms) if you're curious!
 
