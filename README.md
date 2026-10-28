@@ -30,7 +30,7 @@ First of all, I really, REALLY love music. Listening to music isn’t just a hab
 
 I'm into way too many fandoms to list them all here, so I made a separate page for my fandom interests. Feel free to [CHECK IT OUT](https://im4star.github.io/my-fandoms/) if you're curious!
 
-I'm always down to listen to you yap about literally anything. Just don't expect me to give good advice, because honestly, I'm better at listening than figuring out what to say. Take my advice with a grain of salt, or maybe half a grain. I warned you.
+Big sucker for iconic views ( golden sunsets, endless skies, peaceful greenery, and you ;)
 
 <div align="center">
 
