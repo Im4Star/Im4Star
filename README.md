@@ -55,10 +55,10 @@ Just be respectful and we'll be fine.
 
 <br />
 
-<!-- Spotify Real-time Status Widget -->
+<!-- Spotify Real-time Status Widget (Lanyard API) -->
 <p align="center">
   <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinan.com/api/view?uid=645095344064954368&cover_image=true&theme=dark&show_offline=true&background_color=121212&interchange=false" alt="Spotify Status" />
+    <img src="https://lanyard.cnrad.dev/api/645095344064954368?theme=dark&bg=0d1b2a&animated=true" alt="Spotify Status" />
   </a>
 </p>
 
