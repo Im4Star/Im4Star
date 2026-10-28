@@ -30,7 +30,7 @@ First of all, I really, REALLY love music. Listening to music isn’t just a hab
 
 I'm into way too many fandoms to list them all here, so I made a separate page for my fandom interests. Feel free to [CHECK IT OUT](https://im4star.github.io/my-fandoms/) if you're curious!
 
-Big sucker for iconic views ( golden sunsets, endless skies, peaceful greenery, and you ;)
+Big sucker for iconic views ( bầu trời, biển cả và em )
 
 <div align="center">
 
@@ -54,6 +54,13 @@ Just be respectful and we'll be fine.
 <div align="center">
 
 <br />
+
+<!-- Spotify Real-time Status Widget -->
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-profile.kittinan.com/api/view?uid=645095344064954368&cover_image=true&theme=dark&show_offline=true&background_color=121212&interchange=false" alt="Spotify Status" />
+  </a>
+</p>
 
 ### 𝒘𝒐𝒎𝒑 𝒘𝒐𝒎𝒑 𝒘𝒐𝒎𝒑
 
